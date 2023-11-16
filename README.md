@@ -16,7 +16,7 @@ Based on the selections, a password is randomly generated including the criteria
 Live page: https://morgs999.github.io/Javascript-Password-Generator/
 
 ## Usage
-![Password Generator Blank](../Javascript%20Password%20Generator/Assets/Password%20Generator%20Blank.png)
+![Password Generator Blank](Javascript%20Password%20Generator/Assets/Password%20Generator%20Blank.png)
 ![Password Generator Applied](../Javascript%20Password%20Generator/Assets/Password%20Generator%20Applied.png)
 
 ## Credits
